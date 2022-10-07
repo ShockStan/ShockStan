@@ -1,2 +1,2 @@
 👋 Hi, I’m Arvindh
-    who can create programs using Java and have basic knowledge about SQL
+    who can create programs using Java,C,C++,Python and have basic knowledge about SQL
